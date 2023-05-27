@@ -30,7 +30,6 @@ Users should be able to:
 ### Links
 
 - Solution URL: [NFT Preview Card Solution](https://scintillating-kitten-11a80f.netlify.app/)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
 
 ## My process
 
