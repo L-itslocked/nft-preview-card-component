@@ -25,7 +25,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](images/nft-screenshot.png)
+![](/images/nft-screenshot.png)
 
 ### Links
 
@@ -66,7 +66,7 @@ Additionally, I learned how to override responsive grids. I used this concept on
 
 ### Useful resources
 
-- [MDN web docs\_ border-width](https://developer.mozilla.org/en-US/docs/Web/CSS/border-width) - This helped me with achieving the desire look for the horizontal line.
+- [MDN web docs\_](https://developer.mozilla.org/en-US/docs/Web/CSS/border-width) - This helped me with achieving the desire look for the horizontal line.
 
 ## Author
 
