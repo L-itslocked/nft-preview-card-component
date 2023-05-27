@@ -20,8 +20,7 @@ hr {
   display: block;
   margin: 0 auto;
   width: 300px;
-  height: auto;
-  /* height: 510px; */
+  height: 510px;
   padding: 25px;
   border-radius: 10px;
   box-shadow: 5px 5px 25px #000;
