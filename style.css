@@ -41,6 +41,7 @@ hr {
   font-weight: 600;
   color: hsl(0, 0%, 100%);
   letter-spacing: 1.2px;
+  font-size: 20px;
 }
 .position {
   color: hsl(178, 100%, 50%);
