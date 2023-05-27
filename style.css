@@ -20,7 +20,8 @@ hr {
   display: block;
   margin: 0 auto;
   width: 300px;
-  height: 510px;
+  height: auto;
+  /* height: 510px; */
   padding: 25px;
   border-radius: 10px;
   box-shadow: 5px 5px 25px #000;
@@ -53,6 +54,7 @@ hr {
 .timeframe {
   color: hsl(215, 51%, 70%);
   font-weight: 400;
+  text-align: right;
 }
 .timeframe img {
   padding: 0 5px 3px 0;
@@ -86,4 +88,9 @@ hr {
 }
 .attribution a:hover {
   text-decoration: underline;
+}
+@media (max-width: 768px) {
+  .col-md-6 {
+    max-width: 50%;
+  }
 }
