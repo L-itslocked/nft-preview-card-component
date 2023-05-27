@@ -1,29 +1,29 @@
 body {
   display: block;
   margin: 150px auto;
-  background-color: gray;
-  /* hsl(218, 55%, 11%); */
-  /* hsl(217, 54%, 16%); */
-}
-hr {
-  background-color: hsl(215, 32%, 27%);
-  /* margin-left: 50px;
-  margin-right: 50px; */
+  background: hsl(217, 54%, 11%);
 }
 p {
   color: hsl(215, 51%, 70%);
   display: inline-block;
-  font-size: 18px;
   font-weight: 300;
 }
+hr {
+  color: hsl(215, 51%, 70%);
+  font-weight: 600;
+  border-width: 3px;
+  border-radius: 100px;
+}
+
 .main-card {
   background-color: hsl(216, 50%, 16%);
   display: block;
   margin: 0 auto;
   width: 300px;
-  height: auto;
+  height: 510px;
   padding: 25px;
   border-radius: 10px;
+  box-shadow: 5px 5px 25px #000;
 }
 .photo-card img {
   display: block;
@@ -35,6 +35,7 @@ p {
 .text-content {
   margin: 20px auto;
   font-family: "Outfit", sans-serif;
+  font-size: 15px;
 }
 .heading {
   font-weight: 600;
@@ -43,36 +44,38 @@ p {
 }
 .position {
   color: hsl(178, 100%, 50%);
+  font-weight: 600;
 }
 .position img {
   padding: 0 5px 3px 0;
 }
-.timeframe,
-.position {
-  font-weight: 400;
-}
+
 .timeframe {
   color: hsl(215, 51%, 70%);
+  font-weight: 400;
 }
 .timeframe img {
   padding: 0 5px 3px 0;
 }
 .user-avatar-container {
   display: inline-block;
-  background-color: hsl(0, 0%, 100%);
   border-radius: 100px;
   margin-right: 10px;
-  padding: 1px;
 }
 .user-avatar {
-  width: 30px;
+  width: 25px;
   height: auto;
+  border: 1px solid hsl(0, 0%, 100%);
+  border-radius: 100px;
 }
 .user {
   color: hsl(0, 0%, 100%);
 }
+.creator {
+  font-size: 15px;
+}
 .attribution {
-  margin: 15px auto;
+  margin: 18px auto;
   font-size: 11px;
   text-align: center;
   color: hsl(215, 51%, 70%);
