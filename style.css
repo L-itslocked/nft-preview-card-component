@@ -19,8 +19,8 @@ hr {
   background-color: hsl(216, 50%, 16%);
   display: block;
   margin: 0 auto;
-  width: 300px;
-  height: 510px;
+  width: 350px;
+  height: 575px;
   padding: 25px;
   border-radius: 10px;
   box-shadow: 5px 5px 25px #000;
@@ -28,14 +28,14 @@ hr {
 .photo-card img {
   display: block;
   margin: 0 auto;
-  width: 250px;
-  height: 250px;
+  width: 300px;
+  height: 300px;
   border-radius: 5px;
 }
 .text-content {
   margin: 20px auto;
   font-family: "Outfit", sans-serif;
-  font-size: 15px;
+  font-size: 18px;
 }
 .heading {
   font-weight: 600;
