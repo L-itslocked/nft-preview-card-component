@@ -25,7 +25,7 @@ Users should be able to:
 
 ### Screenshot
 
-![](/images/nft-screenshot.png)
+![](images/nft-screenshot.png)
 
 ### Links
 
